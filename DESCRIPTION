@@ -1,0 +1,12 @@
+Package: FAPMMcNmaxr
+Type: Package
+Title: Calculates values for MMcNmax-Queuing Systems
+Version: 0.1.0
+Author: D.Giannuzzi
+Maintainer: The package maintainer <gianndon@students.zhaw.ch>
+Description: Package for the modul Factory Physics for calculating
+    the values in R
+License: Free with NO WARRANTY!
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
